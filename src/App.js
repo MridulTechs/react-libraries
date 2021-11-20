@@ -1,11 +1,15 @@
 import React from 'react'
+import Global from './styles/Global'
 
 const App = () => {
-  return (
-    <div>
-      Hello
-    </div>
-  )
+	return (
+		<React.Fragment>
+			<Global />
+			<div>
+				Hello
+			</div>
+		</React.Fragment>
+	)
 }
 
 export default App
