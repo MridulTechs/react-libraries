@@ -32,6 +32,7 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | Font Awesome | The iconic SVG, font, and CSS toolkit | [Github](https://github.com/FortAwesome/Font-Awesome) | [Guides](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react#get-started) | [Docs](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react) |
+| React Icons | Include popular icons in your React projects easily with react-icons | [Github](https://github.com/react-icons/react-icons) | [Guides](https://github.com/react-icons/react-icons#installation-for-standard-modern-project) | [Docs](https://react-icons.github.io/react-icons) |
 
 ---
 
