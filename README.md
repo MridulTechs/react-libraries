@@ -44,6 +44,7 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | Formik  | Build forms in React, without the tears | [Github](https://github.com/formium/formik) | [Guides](https://formik.org/docs/overview#installation) | [Docs](https://formik.org/docs/overview) |
+| React Final Form | High performance subscription-based form state management for React | [Github](https://github.com/final-form/react-final-form) | [Guides](https://final-form.org/docs/react-final-form/getting-started) | [Docs](https://final-form.org/docs/react-final-form/examples) |
 | React Hook Form | Performant, flexible and extensible forms with easy-to-use validation. | [Github](https://github.com/react-hook-form/react-hook-form) | [Guides](https://github.com/react-hook-form/react-hook-form#install) | [Docs](https://react-hook-form.com/get-started) |
 
 ---
