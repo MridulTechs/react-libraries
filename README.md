@@ -9,6 +9,7 @@
 
 - [Index](#index)
   - [CSS-Frameworks](#css-frameworks)
+  - [Form](#form)
   - [Icons](#icons)
   - [Embade](#embade)
   - [Router](#router)
@@ -33,6 +34,16 @@
 |---|---|---|---|---|
 | Font Awesome | The iconic SVG, font, and CSS toolkit | [Github](https://github.com/FortAwesome/Font-Awesome) | [Guides](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react#get-started) | [Docs](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react) |
 | React Icons | Include popular icons in your React projects easily with react-icons | [Github](https://github.com/react-icons/react-icons) | [Guides](https://github.com/react-icons/react-icons#installation-for-standard-modern-project) | [Docs](https://react-icons.github.io/react-icons) |
+
+---
+
+
+**[⬆ Back to Index](#index)**
+
+### Form
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
+| React Hook Form | Performant, flexible and extensible forms with easy-to-use validation. | [Github](https://github.com/react-hook-form/react-hook-form) | [Guides](https://github.com/react-hook-form/react-hook-form#install) | [Docs](https://react-hook-form.com/get-started) |
 
 ---
 
