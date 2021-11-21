@@ -43,6 +43,7 @@
 ### Form
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
+| Formik  | Build forms in React, without the tears | [Github](https://github.com/formium/formik) | [Guides](https://formik.org/docs/overview#installation) | [Docs](https://formik.org/docs/overview) |
 | React Hook Form | Performant, flexible and extensible forms with easy-to-use validation. | [Github](https://github.com/react-hook-form/react-hook-form) | [Guides](https://github.com/react-hook-form/react-hook-form#install) | [Docs](https://react-hook-form.com/get-started) |
 
 ---
