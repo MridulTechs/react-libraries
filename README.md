@@ -16,29 +16,30 @@
 **[⬆ Back to Index](#index)**
 
 ### CSS-Frameworks
-| Name | Description | NPM | Github | Documentation |
-|---|---|---|---|---|
+| Name | Description | NPM | Github | Installation | Documentation |
+|---|---|---|---|---|---|
+| Tailwind CSS | A utility-first CSS framework packed with classes | [NPM](https://www.npmjs.com/package/tailwindcss) | [Github](https://github.com/tailwindlabs/tailwindcss) | [Install](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Icons
-| Name | Description | NPM | Github | Documentation |
-|---|---|---|---|---|
+| Name | Description | NPM | Github | Installation | Documentation |
+|---|---|---|---|---|---|
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Embade
-| Name | Description | NPM | Github | Documentation |
-|---|---|---|---|---|
+| Name | Description | NPM | Github | Installation | Documentation |
+|---|---|---|---|---|---|
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Router
-| Name | Description | NPM | Github | Documentation |
-|---|---|---|---|---|
+| Name | Description | NPM | Github | Installation | Documentation |
+|---|---|---|---|---|---|
