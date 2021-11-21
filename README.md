@@ -16,32 +16,33 @@
 **[⬆ Back to Index](#index)**
 
 ### CSS-Frameworks
-| Name | Description | NPM | Github | Installation | Docs |
-|---|---|---|---|---|---|
-| Bootstrap | popular framework for building responsive, mobile-first sites | [NPM](https://www.npmjs.com/package/react-bootstrap) | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
-| Material-UI | MUI provides a simple, customizable, and accessible library of React components | [NPM](https://www.npmjs.com/package/@material-ui/core) | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
-| Tailwind | A utility-first CSS framework packed with classes | [NPM](https://www.npmjs.com/package/tailwindcss) | [Github](https://github.com/tailwindlabs/tailwindcss) | [Guides](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
+| React Bootstrap | popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
+| Material-UI | MUI provides a simple, customizable, and accessible library of React components | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
+| React Materialize | Material design components for react, powered by materializecss | [Github](https://github.com/react-materialize/react-materialize) | [Guides](https://github.com/react-materialize/react-materialize#install) | [Docs](http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome) |
+| Tailwind | A utility-first CSS framework packed with classes | [Guides](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Icons
-| Name | Description | NPM | Github | Installation | Docs |
-|---|---|---|---|---|---|
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Embade
-| Name | Description | NPM | Github | Installation | Docs |
-|---|---|---|---|---|---|
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
 
 ---
 
 **[⬆ Back to Index](#index)**
 
 ### Router
-| Name | Description | NPM | Github | Installation | Docs |
-|---|---|---|---|---|---|
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
