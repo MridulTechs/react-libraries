@@ -52,3 +52,5 @@
 ### Router
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
+| React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
+
