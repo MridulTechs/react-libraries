@@ -41,6 +41,7 @@
 ### Embade
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
+| React Instagram Embed | React embedding Instagram posts component | [Github](https://github.com/sugarshin/react-instagram-embed) | [Guides](https://github.com/sugarshin/react-instagram-embed#react-instagram-embed) | [Docs](https://github.com/sugarshin/react-instagram-embed#usage) |
 | React Twitter Embade | Simplest way to add Twitter Widgets to your react project. | [Github](https://github.com/saurabhnemade/react-twitter-embed) | [Guides](https://github.com/saurabhnemade/react-twitter-embed#install) | [Docs](https://saurabhnemade.github.io/react-twitter-embed/?path=/story/twitter-timeline-embed--timeline-profile-with-screen-name) |
 
 ---
