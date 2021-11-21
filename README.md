@@ -16,9 +16,10 @@
 **[⬆ Back to Index](#index)**
 
 ### CSS-Frameworks
-| Name | Description | NPM | Github | Installation | Documentation |
+| Name | Description | NPM | Github | Installation | Docs |
 |---|---|---|---|---|---|
 | Bootstrap | popular framework for building responsive, mobile-first sites | [NPM](https://www.npmjs.com/package/react-bootstrap) | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Install](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
+| material-ui | MUI provides a simple, customizable, and accessible library of React components | [NPM](https://www.npmjs.com/package/@material-ui/core) | [Github](https://github.com/mui-org/material-ui) | [Install](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
 | Tailwind CSS | A utility-first CSS framework packed with classes | [NPM](https://www.npmjs.com/package/tailwindcss) | [Github](https://github.com/tailwindlabs/tailwindcss) | [Install](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
 
 ---
@@ -26,7 +27,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Icons
-| Name | Description | NPM | Github | Installation | Documentation |
+| Name | Description | NPM | Github | Installation | Docs |
 |---|---|---|---|---|---|
 
 ---
@@ -34,7 +35,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Embade
-| Name | Description | NPM | Github | Installation | Documentation |
+| Name | Description | NPM | Github | Installation | Docs |
 |---|---|---|---|---|---|
 
 ---
@@ -42,5 +43,5 @@
 **[⬆ Back to Index](#index)**
 
 ### Router
-| Name | Description | NPM | Github | Installation | Documentation |
+| Name | Description | NPM | Github | Installation | Docs |
 |---|---|---|---|---|---|
