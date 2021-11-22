@@ -56,6 +56,7 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | Next JS  | A framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites | [Github](https://github.com/vercel/next.js) | [Guides](https://nextjs.org/docs/getting-started#setup) | [Docs](https://nextjs.org/docs/getting-started) |
+| Gatsby  | Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps. | [Github](https://github.com/gatsbyjs/gatsby) | [Guides](https://www.gatsbyjs.com/docs/quick-start/) | [Docs](https://www.gatsbyjs.com/docs/) |
 
 ---
 
