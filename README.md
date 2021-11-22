@@ -10,6 +10,7 @@
 - [Index](#index)
   - [Animations](#animations)
   - [CSS-Frameworks](#css-frameworks)
+  - [Frameworks](#frameworks)
   - [Form](#form)
   - [Icons](#icons)
   - [Embade](#embade)
@@ -49,6 +50,14 @@
 
 ---
 
+**[⬆ Back to Index](#index)**
+
+### Frameworks
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
+| Next JS  | A framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites | [Github](https://github.com/vercel/next.js) | [Guides](https://nextjs.org/docs/getting-started#setup) | [Docs](https://nextjs.org/docs/getting-started) |
+
+---
 
 **[⬆ Back to Index](#index)**
 
