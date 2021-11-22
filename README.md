@@ -8,11 +8,23 @@
 ## Index
 
 - [Index](#index)
+  - [Animations](#animations)
   - [CSS-Frameworks](#css-frameworks)
   - [Form](#form)
   - [Icons](#icons)
   - [Embade](#embade)
   - [Router](#router)
+
+---
+
+**[⬆ Back to Index](#index)**
+
+### Animations
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
+| Framer Motion | Framer Motion is a production-ready React animation and gesture library. | [Github](https://github.com/framer/motion) | [Guides](https://github.com/framer/motion#-quick-start) | [Docs](https://www.framer.com/docs/) |
+
+---
 
 **[⬆ Back to Index](#index)**
 
