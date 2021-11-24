@@ -59,6 +59,7 @@
 | Hydrogen  | Hydrogen's React-based framework for building custom storefronts on Shopify gives you everything you need to start fast | [Github](https://github.com/Shopify/hydrogen) | [Guides](https://shopify.dev/custom-storefronts/hydrogen/getting-started) | [Docs](https://shopify.dev/custom-storefronts/hydrogen) |
 | Next JS  | A framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites | [Github](https://github.com/vercel/next.js) | [Guides](https://nextjs.org/docs/getting-started#setup) | [Docs](https://nextjs.org/docs/getting-started) |
 | Refine  | Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability. | [Github](https://github.com/pankod/refine) | [Guides](https://refine.dev/docs/getting-started/overview/) | [Docs](https://refine.dev/docs/) |
+| Remix | Remix is a framework for building better websites using modern web standards and best practices. | [Github](https://github.com/remix-run/remix) | [Guides](https://remix.run/docs/en/v1#getting-started) | [Docs](https://remix.run/docs/en/v1) |
 
 ---
 
