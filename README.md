@@ -10,9 +10,9 @@
 - [Index](#index)
   - [Animations](#animations)
   - [CSS-Frameworks](#css-frameworks)
+  - [Icons](#icons)
   - [Frameworks](#frameworks)
   - [Form](#form)
-  - [Icons](#icons)
   - [Embade](#embade)
   - [Router](#router)
 
@@ -21,7 +21,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Animations
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | Framer Motion | Framer Motion is a production-ready React animation and gesture library. | [Github](https://github.com/framer/motion) | [Guides](https://github.com/framer/motion#-quick-start) | [Docs](https://www.framer.com/docs/) |
 
@@ -30,7 +30,7 @@
 **[⬆ Back to Index](#index)**
 
 ### CSS-Frameworks
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | Bootstrap | Popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
 | Bulma CSS | A free, open source CSS framework based on Flexbox and built with Sass. | [Github](https://github.com/jgthms/bulma) | [Guides](https://github.com/jgthms/bulma#quick-install) | [Docs](https://bulma.io/documentation/) |
@@ -43,7 +43,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Icons
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | Font Awesome | The iconic SVG, font, and CSS toolkit | [Github](https://github.com/FortAwesome/Font-Awesome) | [Guides](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react#get-started) | [Docs](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react) |
 | React Icons | Include popular icons in your React projects easily with react-icons | [Github](https://github.com/react-icons/react-icons) | [Guides](https://github.com/react-icons/react-icons#installation-for-standard-modern-project) | [Docs](https://react-icons.github.io/react-icons) |
@@ -53,7 +53,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Frameworks
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | Gatsby  | Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps. | [Github](https://github.com/gatsbyjs/gatsby) | [Guides](https://www.gatsbyjs.com/docs/quick-start/) | [Docs](https://www.gatsbyjs.com/docs/) |
 | Hydrogen  | Hydrogen's React-based framework for building custom storefronts on Shopify gives you everything you need to start fast | [Github](https://github.com/Shopify/hydrogen) | [Guides](https://shopify.dev/custom-storefronts/hydrogen/getting-started) | [Docs](https://shopify.dev/custom-storefronts/hydrogen) |
@@ -66,7 +66,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Form
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | Formik  | Build forms in React, without the tears | [Github](https://github.com/formium/formik) | [Guides](https://formik.org/docs/overview#installation) | [Docs](https://formik.org/docs/overview) |
 | React Final Form | High performance subscription-based form state management for React | [Github](https://github.com/final-form/react-final-form) | [Guides](https://final-form.org/docs/react-final-form/getting-started) | [Docs](https://final-form.org/docs/react-final-form/examples) |
@@ -78,7 +78,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Embade
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | React Facebook | React Facebook Components | [Github](https://github.com/seeden/react-facebook) | [Guides](https://github.com/seeden/react-facebook#initialisation) | [Docs](https://github.com/seeden/react-facebook#usage) |
 | React Instagram Embed | React embedding Instagram posts component | [Github](https://github.com/sugarshin/react-instagram-embed) | [Guides](https://github.com/sugarshin/react-instagram-embed#react-instagram-embed) | [Docs](https://github.com/sugarshin/react-instagram-embed#usage) |
@@ -89,7 +89,7 @@
 **[⬆ Back to Index](#index)**
 
 ### Router
-| Name | Description | Github | Installation | Docs |
+| Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
 
