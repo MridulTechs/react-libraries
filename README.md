@@ -87,6 +87,7 @@
 ### UI
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
+| Ant Design | An enterprise-class UI design language and React UI library | [Github](https://github.com/ant-design/ant-design/) | [Guides](https://ant.design/docs/react/introduce#Installation) | [Docs](https://ant.design/docs/react/introduce) |
 | Bootstrap | Popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
 | Bulma CSS | A free, open source CSS framework based on Flexbox and built with Sass. | [Github](https://github.com/jgthms/bulma) | [Guides](https://github.com/jgthms/bulma#quick-install) | [Docs](https://bulma.io/documentation/) |
 | Material-UI | MUI provides a simple, customizable, and accessible library of React components | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
