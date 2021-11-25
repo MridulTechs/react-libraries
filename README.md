@@ -9,12 +9,12 @@
 
 - [Index](#index)
   - [Animations](#animations)
-  - [CSS-Frameworks](#css-frameworks)
   - [Frameworks](#frameworks)
   - [Form](#form)
   - [Icons](#icons)
   - [Embade](#embade)
   - [Router](#router)
+  - [UI](#ui)
 
 ---
 
@@ -24,19 +24,6 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | Framer Motion | Framer Motion is a production-ready React animation and gesture library. | [Github](https://github.com/framer/motion) | [Guides](https://github.com/framer/motion#-quick-start) | [Docs](https://www.framer.com/docs/) |
-
----
-
-**[⬆ Back to Index](#index)**
-
-### CSS-Frameworks
-| Name | Description | Github | Installation | Docs |
-|---|---|---|---|---|
-| Bootstrap | Popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
-| Bulma CSS | A free, open source CSS framework based on Flexbox and built with Sass. | [Github](https://github.com/jgthms/bulma) | [Guides](https://github.com/jgthms/bulma#quick-install) | [Docs](https://bulma.io/documentation/) |
-| Material-UI | MUI provides a simple, customizable, and accessible library of React components | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
-| Materialize React | Material design components for react, powered by materializecss | [Github](https://github.com/react-materialize/react-materialize) | [Guides](https://github.com/react-materialize/react-materialize#install) | [Docs](http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome) |
-| Tailwind CSS | A utility-first CSS framework packed with classes | [Github](https://github.com/tailwindlabs/tailwindcss) | [Guides](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
 
 ---
 
@@ -92,4 +79,19 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
+
+**[⬆ Back to Index](#index)**
+
+---
+
+### UI
+| Name | Description | Github | Installation | Docs |
+|---|---|---|---|---|
+| Bootstrap | Popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
+| Bulma CSS | A free, open source CSS framework based on Flexbox and built with Sass. | [Github](https://github.com/jgthms/bulma) | [Guides](https://github.com/jgthms/bulma#quick-install) | [Docs](https://bulma.io/documentation/) |
+| Material-UI | MUI provides a simple, customizable, and accessible library of React components | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
+| Materialize React | Material design components for react, powered by materializecss | [Github](https://github.com/react-materialize/react-materialize) | [Guides](https://github.com/react-materialize/react-materialize#install) | [Docs](http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome) |
+| Tailwind CSS | A utility-first CSS framework packed with classes | [Github](https://github.com/tailwindlabs/tailwindcss) | [Guides](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
+
+---
 
