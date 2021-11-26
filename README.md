@@ -14,6 +14,7 @@
   - [Form](#form)
   - [Embade](#embade)
   - [Router](#router)
+  - [SEO](#seo)
   - [UI](#ui)
 
 ---
@@ -79,6 +80,17 @@
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
+
+**[⬆ Back to Index](#index)**
+
+---
+
+**[⬆ Back to Index](#index)**
+
+### SEO
+| Name | Description | Repository | Installation | Docs |
+|---|---|---|---|---|
+| React Helmet | This reusable React component will manage all of your changes to the document head. | [Github](https://github.com/nfl/react-helmet) | [Guides](https://github.com/nfl/react-helmet#installation) | [Docs](https://github.com/nfl/react-helmet#example) |
 
 **[⬆ Back to Index](#index)**
 
