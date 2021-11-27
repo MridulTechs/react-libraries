@@ -4,7 +4,7 @@
 
 * [Fork][fork-link] the [repository](repo-link).
 * [Clone][clone-link] it locally.
-* Create Your own [branch][branch-link] with `git checkout -b <YOUR_BRANCH_NNAME>`
+* Create Your own [branch][branch-link] with `git checkout -b <branch-YOUR_BRANCH_NNAME>`
 * Add the **React Library** 
 * Continue to follow the **alphabetical ordering** that is in place per section
 * Add **one library** per Pull Request.
@@ -21,8 +21,14 @@ and for others to understand and maintain in the future.
 Example entry:
 
 ```
-| React Icons | Include popular icons in your React projects easily with react-icons | [Github](https://github.com/react-icons/react-icons) | [Guides](https://github.com/react-icons/react-icons#installation-for-standard-modern-project) | [Docs](https://react-icons.github.io/react-icons) |
+| React Icons | Popular icons for React projects | [Github](https://github.com/react-icons/react-icons) | [Guides](https://github.com/react-icons/react-icons#installation-for-standard-modern-project) | [Docs](https://react-icons.github.io/react-icons) |
 ```
+
+* Use a short descriptive commit message. *for e.g.*: `Add React Icon to Icons`
+* Make sure the PR title is in the format of `Add libreary-name` *for e.g.*: `Add React Icon`
+* Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate.
+* Please make sure the Libreary has proper documentation.
+
 
 [repo-link]: <https://github.com/ByteClan/react-libraries>
 [branch-link]: <http://guides.github.com/introduction/flow/>
