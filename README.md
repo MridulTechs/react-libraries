@@ -15,6 +15,7 @@
   - [Embade](#embade)
   - [Router](#router)
   - [SEO](#seo)
+  - [Testing](#testing)
   - [UI](#ui)
 
 ---
@@ -81,8 +82,6 @@
 |---|---|---|---|---|
 | React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
 
-**[⬆ Back to Index](#index)**
-
 ---
 
 **[⬆ Back to Index](#index)**
@@ -91,6 +90,15 @@
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
 | React Helmet | This reusable React component will manage all of your changes to the document head. | [Github](https://github.com/nfl/react-helmet) | [Guides](https://github.com/nfl/react-helmet#installation) | [Docs](https://github.com/nfl/react-helmet#example) |
+
+**[⬆ Back to Index](#index)**
+
+---
+
+### Testing
+| Name | Description | Repository | Installation | Docs |
+|---|---|---|---|---|
+| Jest | Jest is a delightful JavaScript Testing Framework with a focus on simplicity. | [Github](https://github.com/facebook/jest) | [Guides](https://jestjs.io/docs/getting-started) | [Docs](https://jestjs.io/docs/snapshot-testing) |
 
 **[⬆ Back to Index](#index)**
 
