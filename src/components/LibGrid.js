@@ -3,18 +3,38 @@ import LibCard from './LibCard'
 import { v4 as uuidv4 } from 'uuid';
 import styled from 'styled-components';
 
-const LibGrid = ({ libraries }) => {
+const LibGrid = ({ lib, search }) => {
+    const filterLibs = lib.libraries.filter(item => {
+        return item.name.toLowerCase().includes(search.toLowerCase())
+    })
+
     return (
-        <GridWrap>
-            {libraries.map(item => (
-                <LibCard 
-                    key={uuidv4()} 
-                    item={item}
-                />
-            ))}
-        </GridWrap>
+        <>
+            {filterLibs.length > 0 && 
+                <Section>
+                    <Title>{lib.topic}</Title>
+                    <GridWrap>
+                        {filterLibs.map(item => (
+                            <LibCard 
+                                key={uuidv4()} 
+                                item={item}
+                            />
+                        ))}
+                    </GridWrap>
+                </Section>
+            }
+        </>
     )
 }
+
+const Section = styled.section`
+    margin-bottom: 20px;
+
+    &:not(:last-of-type){
+        border-bottom: .5px solid #ccc;
+        padding-bottom: 20px;
+    }
+`
 
 const GridWrap = styled.div`
     display: grid;
@@ -32,6 +52,10 @@ const GridWrap = styled.div`
     @media (max-width: 600px) {
         grid-template-columns: repeat(1, 1fr);
     }
+`
+
+const Title = styled.h2`
+    margin-bottom: 15px;
 `
 
 export default LibGrid
