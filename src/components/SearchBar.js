@@ -19,7 +19,7 @@ const SearchBar = ({ search, setSearch }) => {
 }
 
 const SearchWrap = styled.div`
-    padding: 90px 15px 0 15px;
+    padding: 10px 15px;
     position: relative;
     max-width: 400px;
     margin: 0 auto;
@@ -28,7 +28,7 @@ const SearchWrap = styled.div`
 
 const SearchInput = styled.input`
     width: 100%;
-    padding: 5px 20px;
+    padding: 5px 20px 5px 40px;
     outline: none;
     border: none;
     box-shadow: 3px 6px 20px rgba(0, 0, 0, 0.136);
@@ -44,9 +44,8 @@ const SearchInput = styled.input`
 
 const SearchIcon = styled.div`
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    left: 20px;
+    bottom: 12px;
+    left: 25px;
 `
 
 export default SearchBar

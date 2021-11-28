@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { AiFillGithub } from 'react-icons/ai'
 import styled from 'styled-components'
 import { InfiniteRotate } from '../styles/Keyframes'
 
@@ -21,6 +22,14 @@ const Header = () => {
             <Image src="/assets/react.svg" alt="react" />
             <Heading>React Libraries</Heading>
             <Image src="/assets/react.svg" alt="react" />
+
+            <Github 
+                target="_blank" 
+                rel="noreferrer" 
+                href="https://github.com/ByteClan/react-libraries"
+            >
+                <AiFillGithub size="22px" />
+            </Github>
         </NavBar>
     )
 }
@@ -60,6 +69,17 @@ const Image = styled.img`
     @media (max-width: 600px) {
         height: 35px;
         width: 35px;
+    }
+`
+
+const Github = styled.a`
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px;
+
+    @media (max-width: 600px) {
+        right: 10px;
     }
 `
 

@@ -41,8 +41,8 @@ const LibCard = ({ item }) => {
 }
 
 const Card = styled.div`
-position: relative;
-    padding: 10px;
+    position: relative;
+    padding: 15px;
     border-radius: 5px;
     background: rgba(238, 238, 238, .3);
     transition: all .5s;
@@ -77,8 +77,8 @@ const ButtonLink = styled(Button)`
 
 const Github = styled.a`
     position: absolute;
-    top: 10px;
-    right: 10px;
+    top: 15px;
+    right: 15px;
 `
 
 export default LibCard
