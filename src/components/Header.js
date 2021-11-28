@@ -57,6 +57,7 @@ const Heading = styled.h1`
     margin: 0 20px;
 
     @media (max-width: 600px) {
+        margin: 0 10px;
         font-size: 22px;
     }
 `
