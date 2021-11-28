@@ -14,9 +14,9 @@ const LibGrid = ({ lib, search }) => {
                 <Section>
                     <Title>{lib.topic}</Title>
                     <GridWrap>
-                        {filterLibs.map(item => (
+                        {filterLibs.map((item, id) => (
                             <LibCard 
-                                key={uuidv4()} 
+                                key={id} 
                                 item={item}
                             />
                         ))}

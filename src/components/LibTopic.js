@@ -1,13 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 import LibGrid from './LibGrid'
-import { v4 as uuidv4 } from 'uuid';
 
 const LibTopic = ({ libs, search }) => {
     return (
         <Wrap>
-            {libs.map(lib => (
-                <React.Fragment key={uuidv4()}>
+            {libs.map((lib, id) => (
+                <React.Fragment key={id}>
                     <LibGrid 
                         lib={lib} 
                         search={search}
