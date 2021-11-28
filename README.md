@@ -26,6 +26,7 @@
   - [Embade](#embade)
   - [Router](#router)
   - [SEO](#seo)
+  - [Style](#style)
   - [Testing](#testing)
   - [UI](#ui)
 
@@ -106,6 +107,15 @@
 
 ---
 
+### Style
+| Name | Description | Repository | Installation | Docs |
+|---|---|---|---|---|
+| Styled Components | Use the best bits of ES6 and CSS to style your apps without stress | [Github](https://github.com/styled-components/styled-components) | [Guides](https://styled-components.com/docs/basics#installation) | [Docs](https://styled-components.com/docs) |
+
+**[⬆ Back to Index](#index)**
+
+---
+
 ### Testing
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
@@ -124,6 +134,3 @@
 | Material-UI | MUI provides a simple, customizable, and accessible library of React components | [Github](https://github.com/mui-org/material-ui) | [Guides](https://mui.com/getting-started/installation/) | [Docs](https://mui.com/getting-started/usage/) |
 | Materialize React | Material design components for react, powered by materializecss | [Github](https://github.com/react-materialize/react-materialize) | [Guides](https://github.com/react-materialize/react-materialize#install) | [Docs](http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome) |
 | Tailwind CSS | A utility-first CSS framework packed with classes | [Github](https://github.com/tailwindlabs/tailwindcss) | [Guides](https://tailwindcss.com/docs/installation) | [Docs](https://tailwindcss.com/docs) |
-
----
-
