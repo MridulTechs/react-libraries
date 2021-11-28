@@ -7,6 +7,7 @@ import Header from './components/Header'
 import SearchBar from './components/SearchBar'
 import LibTopic from './components/LibTopic'
 import Info from './components/Info'
+import ScrollTop from './components/ScrollTop'
 
 const App = () => {
 	const [search, setSearch] = useState('')
@@ -33,6 +34,7 @@ const App = () => {
 				libs={libs} 
 				search={search}
 			/>
+			<ScrollTop />
 		</React.Fragment>
 	)
 }
