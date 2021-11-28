@@ -1,0 +1,227 @@
+[
+    {
+        "topic": "Animations",
+        "libraries": [
+            {
+                "name": "Framer Motion",
+                "description": "Framer Motion is a production-ready React animation and gesture library.",
+                "repository": "https://github.com/framer/motion",
+                "installation": "https://github.com/framer/motion#-quick-start",
+                "docs": "https://www.framer.com/docs/"
+            }
+        ]
+    },
+    {
+        "topic": "Icons",
+        "libraries": [
+            {
+                "name": "Font Awesome",
+                "description": "The iconic SVG, font, and CSS toolkit",
+                "repository": "https://github.com/FortAwesome/Font-Awesome",
+                "installation": "https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react#get-started",
+                "docs": "https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react"
+            },
+            {
+                "name": "React Icons",
+                "description": "Include popular icons in your React projects easily with react-icons",
+                "repository": "https://github.com/react-icons/react-icons",
+                "installation": "https://github.com/react-icons/react-icons#installation-for-standard-modern-project",
+                "docs": "https://react-icons.github.io/react-icons"
+            }
+        ]
+    },
+    {
+        "topic": "Frameworks",
+        "libraries": [
+            {
+                "name": "Gatsby",
+                "description": "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.",
+                "repository": "https://github.com/gatsbyjs/gatsby",
+                "installation": "https://www.gatsbyjs.com/docs/quick-start/",
+                "docs": "https://www.gatsbyjs.com/docs/"
+            },
+            {
+                "name": "Hydrogen",
+                "description": "Hydrogen's React-based framework for building custom storefronts on Shopify gives you everything you need to start fast",
+                "repository": "https://github.com/Shopify/hydrogen",
+                "installation": "https://shopify.dev/custom-storefronts/hydrogen/getting-started",
+                "docs": "https://shopify.dev/custom-storefronts/hydrogen"
+            },
+            {
+                "name": "Next JS",
+                "description": "A framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites",
+                "repository": "https://github.com/vercel/next.js",
+                "installation": "https://nextjs.org/docs/getting-started#setup",
+                "docs": "https://nextjs.org/docs/getting-started"
+            },
+            {
+                "name": "Refine",
+                "description": "Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability.",
+                "repository": "https://github.com/pankod/refine",
+                "installation": "https://refine.dev/docs/getting-started/overview/",
+                "docs": "https://refine.dev/docs/"
+            },
+            {
+                "name": "Remix",
+                "description": "Remix is a framework for building better websites using modern web standards and best practices.",
+                "repository": "https://github.com/remix-run/remix",
+                "installation": "https://remix.run/docs/en/v1#getting-started",
+                "docs": "https://remix.run/docs/en/v1"
+            }
+        ]
+    },
+    {
+        "topic": "Form",
+        "libraries": [
+            {
+                "name": "Formik",
+                "description": "Build forms in React, without the tears",
+                "repository": "https://github.com/formium/formik",
+                "installation": "https://formik.org/docs/overview#installation",
+                "docs": "https://formik.org/docs/overview"
+            },
+            {
+                "name": "React Final Form",
+                "description": "High performance subscription-based form state management for React",
+                "repository": "https://github.com/final-form/react-final-form",
+                "installation": "https://final-form.org/docs/react-final-form/getting-started",
+                "docs": "https://final-form.org/docs/react-final-form/examples"
+            },
+            {
+                "name": "React Form",
+                "description": "Hooks for managing form state and validation in React",
+                "repository": "https://github.com/tannerlinsley/react-form",
+                "installation": "https://github.com/tannerlinsley/react-form/blob/master/docs/installation.md",
+                "docs": "https://github.com/tannerlinsley/react-form/blob/master/docs/examples.md"
+            },
+            {
+                "name": "React Hook Form",
+                "description": "Performant, flexible and extensible forms with easy-to-use validation.",
+                "repository": "https://github.com/react-hook-form/react-hook-form",
+                "installation": "https://github.com/react-hook-form/react-hook-form#install",
+                "docs": "https://react-hook-form.com/get-started"
+            }
+        ]
+    },
+    {
+        "topic": "Embade",
+        "libraries": [
+            {
+                "name": "React Facebook",
+                "description": "React Facebook Components",
+                "repository": "https://github.com/seeden/react-facebook",
+                "installation": "https://github.com/seeden/react-facebook#initialisation",
+                "docs": "https://github.com/seeden/react-facebook#usage"
+            },
+            {
+                "name": "React Instagram Embed",
+                "description": "React embedding Instagram posts component",
+                "repository": "https://github.com/sugarshin/react-instagram-embed",
+                "installation": "https://github.com/sugarshin/react-instagram-embed#react-instagram-embed",
+                "docs": "https://github.com/sugarshin/react-instagram-embed#usage"
+            },
+            {
+                "name": "React Twitter Embade",
+                "description": "Simplest way to add Twitter Widgets to your react project.",
+                "repository": "https://github.com/saurabhnemade/react-twitter-embed",
+                "installation": "https://github.com/saurabhnemade/react-twitter-embed#install",
+                "docs": "https://saurabhnemade.github.io/react-twitter-embed/?path=/story/twitter-timeline-embed--timeline-profile-with-screen-name"
+            }
+        ]
+    },
+    {
+        "topic": "Router",
+        "libraries": [
+            {
+                "name": "React Router",
+                "description": "React Router is a lightweight, fully-featured routing library for the React JavaScript library",
+                "repository": "https://github.com/remix-run/react-router",
+                "installation": "https://reactrouter.com/docs/en/v6/getting-started/installation",
+                "docs": "https://reactrouter.com/docs/en/v6"
+            }
+        ]
+    },
+    {
+        "topic": "SEO",
+        "libraries": [
+            {
+                "name": "React Helmet",
+                "description": "This reusable React component will manage all of your changes to the document head.",
+                "repository": "https://github.com/nfl/react-helmet",
+                "installation": "https://github.com/nfl/react-helmet#installation",
+                "docs": "https://github.com/nfl/react-helmet#example"
+            }
+        ]
+    },
+    {
+        "topic": "Style",
+        "libraries": [
+            {
+                "name": "Styled Components",
+                "description": "Use the best bits of ES6 and CSS to style your apps without stress",
+                "repository": "https://github.com/styled-components/styled-components",
+                "installation": "https://styled-components.com/docs/basics#installation",
+                "docs": "https://styled-components.com/docs"
+            }
+        ]
+    },
+    {
+        "topic": "Testing",
+        "libraries": [
+            {
+                "name": "Jest",
+                "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity.",
+                "repository": "https://github.com/facebook/jest",
+                "installation": "https://jestjs.io/docs/getting-started",
+                "docs": "https://jestjs.io/docs/snapshot-testing"
+            }
+        ]
+    },
+    {
+        "topic": "UI",
+        "libraries": [
+            {
+                "name": "Ant Design",
+                "description": "An enterprise-class UI design language and React UI library",
+                "repository": "https://github.com/ant-design/ant-design/",
+                "installation": "https://ant.design/docs/react/introduce#Installation",
+                "docs": "https://ant.design/docs/react/introduce"
+            },
+            {
+                "name": "Bootstrap",
+                "description": "Popular framework for building responsive, mobile-first sites",
+                "repository": "https://github.com/react-bootstrap/react-bootstrap",
+                "installation": "https://react-bootstrap.github.io/getting-started/introduction#installation",
+                "docs": "https://react-bootstrap.github.io/getting-started/introduction/"
+            },
+            {
+                "name": "Bulma CSS",
+                "description": "A free, open source CSS framework based on Flexbox and built with Sass.",
+                "repository": "https://github.com/jgthms/bulma",
+                "installation": "https://github.com/jgthms/bulma#quick-install",
+                "docs": "https://bulma.io/documentation/"
+            },
+            {
+                "name": "Material-UI",
+                "description": "MUI provides a simple, customizable, and accessible library of React components",
+                "repository": "https://github.com/mui-org/material-ui",
+                "installation": "https://mui.com/getting-started/installation/",
+                "docs": "https://mui.com/getting-started/usage/"
+            },
+            {
+                "name": "Materialize React",
+                "description": "Material design components for react, powered by materializecss",
+                "repository": "https://github.com/react-materialize/react-materialize",
+                "installation": "https://github.com/react-materialize/react-materialize#install",
+                "docs": "http://react-materialize.github.io/react-materialize/?path=/story/react-materialize--welcome"
+            },
+            {
+                "name": "Tailwind CSS",
+                "description": "A utility-first CSS framework packed with classes",
+                "repository": "https://github.com/tailwindlabs/tailwindcss",
+                "installation": "https://tailwindcss.com/docs/installation",
+                "docs": "https://tailwindcss.com/docs"
+            }
+        ]
+    }
+]
