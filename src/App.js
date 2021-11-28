@@ -1,14 +1,19 @@
 import React from 'react'
 import Header from './components/Header'
-import LibGrid from './components/LibGrid'
 import Global from './styles/Global'
 
+import libs from './libraries.json'
+
+import LibTopic from './components/LibTopic'
+
 const App = () => {
+	console.log(libs)
+
 	return (
 		<React.Fragment>
 			<Global />
 			<Header />
-			<LibGrid />
+			<LibTopic libs={libs} />
 		</React.Fragment>
 	)
 }

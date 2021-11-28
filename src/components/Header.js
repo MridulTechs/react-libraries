@@ -37,6 +37,7 @@ const NavBar = styled.nav`
     border-bottom: 1px solid #000;
     padding: 10px 20px;
     background: #fff;
+    z-index: 10;
 
     &.active{
         box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.3);
@@ -45,12 +46,21 @@ const NavBar = styled.nav`
 
 const Heading = styled.h1`
     margin: 0 20px;
+
+    @media (max-width: 600px) {
+        font-size: 22px;
+    }
 `
 
 const Image = styled.img`
     height: 50px;
     width: 50px;
     animation: ${InfiniteRotate} 10s linear infinite;
+
+    @media (max-width: 600px) {
+        height: 35px;
+        width: 35px;
+    }
 `
 
 export default Header
