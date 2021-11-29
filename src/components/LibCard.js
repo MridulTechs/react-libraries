@@ -15,6 +15,7 @@ const LibCard = ({ item }) => {
                     target="_blank" 
                     rel="noreferrer" 
                     href={item.repository}
+                    aria-label="Github"
                 >
                     <AiFillGithub size="22px" />
                 </Github>

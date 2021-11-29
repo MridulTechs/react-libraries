@@ -27,6 +27,7 @@ const Header = () => {
                 target="_blank" 
                 rel="noreferrer" 
                 href="https://github.com/ByteClan/react-libraries"
+                aria-label="Github"
             >
                 <AiFillGithub size="22px" />
             </Github>

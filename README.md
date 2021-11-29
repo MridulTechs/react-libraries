@@ -1,6 +1,6 @@
 <div align="center">
     <h1>React Libraries</h1>
-    <i>A list usefull React Libraries made by community</i>
+    <i>A list of Libraries in React ecosystem</i>
 </div>
 
 <br />
