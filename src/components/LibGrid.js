@@ -1,6 +1,5 @@
 import React from 'react'
 import LibCard from './LibCard'
-import { v4 as uuidv4 } from 'uuid';
 import styled from 'styled-components';
 
 const LibGrid = ({ lib, search }) => {
