@@ -110,6 +110,7 @@
 ### Style
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
+| Emotion | CSS-in-JS library designed for high performance style composition | [Github](https://github.com/emotion-js/emotion) | [Guides](https://emotion.sh/docs/introduction#react) | [Docs](https://emotion.sh/docs/introduction) |
 | Styled Components | Use the best bits of ES6 and CSS to style your apps without stress | [Github](https://github.com/styled-components/styled-components) | [Guides](https://styled-components.com/docs/basics#installation) | [Docs](https://styled-components.com/docs) |
 
 **[⬆ Back to Index](#index)**
