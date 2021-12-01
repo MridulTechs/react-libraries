@@ -55,6 +55,13 @@
                 "docs": "https://nextjs.org/docs/getting-started"
             },
             {
+                "name": "React Admin",
+                "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+                "repository": "https://github.com/marmelab/react-admin",
+                "installation": "https://github.com/marmelab/react-admin#installation",
+                "docs": "https://marmelab.com/react-admin/Tutorial.html"
+            },
+            {
                 "name": "Refine",
                 "description": "Refine offers lots of out-of-the box functionality for rapid development, without compromising extreme customizability.",
                 "repository": "https://github.com/pankod/refine",
