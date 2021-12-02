@@ -56,6 +56,7 @@
 ### Frameworks
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
+| Blitz  | The Fullstack React Framework | [Github](https://github.com/blitz-js/blitz) | [Guides](https://blitzjs.com/docs/get-started#install-blitz) | [Docs](https://blitzjs.com/docs/get-started) |
 | Gatsby  | Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps. | [Github](https://github.com/gatsbyjs/gatsby) | [Guides](https://www.gatsbyjs.com/docs/quick-start/) | [Docs](https://www.gatsbyjs.com/docs/) |
 | Hydrogen  | Hydrogen's React-based framework for building custom storefronts on Shopify gives you everything you need to start fast | [Github](https://github.com/Shopify/hydrogen) | [Guides](https://shopify.dev/custom-storefronts/hydrogen/getting-started) | [Docs](https://shopify.dev/custom-storefronts/hydrogen) |
 | Next JS  | A framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites | [Github](https://github.com/vercel/next.js) | [Guides](https://nextjs.org/docs/getting-started#setup) | [Docs](https://nextjs.org/docs/getting-started) |
