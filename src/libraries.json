@@ -34,6 +34,13 @@
         "topic": "Frameworks",
         "libraries": [
             {
+                "name": "Blitz",
+                "description": "The Fullstack React Framework",
+                "repository": "https://github.com/blitz-js/blitz",
+                "installation": "https://blitzjs.com/docs/get-started#install-blitz",
+                "docs": "https://blitzjs.com/docs/get-started"
+            },
+            {
                 "name": "Gatsby",
                 "description": "Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.",
                 "repository": "https://github.com/gatsbyjs/gatsby",
