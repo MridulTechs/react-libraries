@@ -34,6 +34,13 @@
         "topic": "Frameworks",
         "libraries": [
             {
+                "name": "Aleph.js",
+                "description": "The Fullstack Framework in Deno",
+                "repository": "https://github.com/alephjs/aleph.js",
+                "installation": "https://alephjs.org/docs/get-started",
+                "docs": "https://alephjs.org/docs"
+            },
+            {
                 "name": "Blitz",
                 "description": "The Fullstack React Framework",
                 "repository": "https://github.com/blitz-js/blitz",
