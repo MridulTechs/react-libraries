@@ -56,6 +56,7 @@
 ### Frameworks
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
+| Aleph.js | The Fullstack Framework in Deno | [Github](https://github.com/alephjs/aleph.js) | [Guides](https://alephjs.org/docs/get-started) | [Docs](https://alephjs.org/docs) |
 | Blitz  | The Fullstack React Framework | [Github](https://github.com/blitz-js/blitz) | [Guides](https://blitzjs.com/docs/get-started#install-blitz) | [Docs](https://blitzjs.com/docs/get-started) |
 | Gatsby  | Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps. | [Github](https://github.com/gatsbyjs/gatsby) | [Guides](https://www.gatsbyjs.com/docs/quick-start/) | [Docs](https://www.gatsbyjs.com/docs/) |
 | Hydrogen  | Hydrogen's React-based framework for building custom storefronts on Shopify gives you everything you need to start fast | [Github](https://github.com/Shopify/hydrogen) | [Guides](https://shopify.dev/custom-storefronts/hydrogen/getting-started) | [Docs](https://shopify.dev/custom-storefronts/hydrogen) |
