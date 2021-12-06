@@ -185,6 +185,13 @@
                 "docs": "https://emotion.sh/docs/introduction"
             },
             {
+                "name": "Radium",
+                "description": "Radium is a set of tools to manage inline styles on React elements.",
+                "repository": "https://github.com/FormidableLabs/radium",
+                "installation": "https://formidable.com/open-source/radium/",
+                "docs": "https://formidable.com/open-source/radium/"
+            },
+            {
                 "name": "Styled Components",
                 "description": "Use the best bits of ES6 and CSS to style your apps without stress",
                 "repository": "https://github.com/styled-components/styled-components",
