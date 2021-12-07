@@ -192,6 +192,13 @@
                 "docs": "https://formidable.com/open-source/radium/"
             },
             {
+                "name": "Stitches",
+                "description": "CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience",
+                "repository": "https://github.com/modulz/stitches",
+                "installation": "https://stitches.dev/docs/installation",
+                "docs": "https://stitches.dev/docs/introduction"
+            },
+            {
                 "name": "Styled Components",
                 "description": "Use the best bits of ES6 and CSS to style your apps without stress",
                 "repository": "https://github.com/styled-components/styled-components",

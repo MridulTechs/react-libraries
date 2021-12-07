@@ -115,7 +115,8 @@
 |---|---|---|---|---|
 | Emotion | CSS-in-JS library designed for high performance style composition | [Github](https://github.com/emotion-js/emotion) | [Guides](https://emotion.sh/docs/introduction#react) | [Docs](https://emotion.sh/docs/introduction) |
 | Radium | Radium is a set of tools to manage inline styles on React elements. | [Github](https://github.com/FormidableLabs/radium) | [Guides](https://formidable.com/open-source/radium/) | [Docs](https://formidable.com/open-source/radium/) |
-| Styled Components | Use the best bits of ES6 and CSS to style your apps without stress | [Github](https://github.com/styled-components/styled-components) | [Guides](https://styled-components.com/docs/basics#installation) | [Docs](https://styled-components.com/docs) |
+| Stitches | CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience | [Github](https://github.com/modulz/stitches) | [Guides](https://stitches.dev/docs/installation) | [Docs](https://styled-components.com/docs) |
+| Styled Components | Use the best bits of ES6 and CSS to style your apps without stress | [Github](https://github.com/styled-components/styled-components) | [Guides](https://styled-components.com/docs/basics#installation) | [Docs](https://stitches.dev/docs/introduction) |
 
 **[⬆ Back to Index](#index)**
 
