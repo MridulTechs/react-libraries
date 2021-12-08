@@ -95,6 +95,7 @@
 ### Router
 | Name | Description | Repository | Installation | Docs |
 |---|---|---|---|---|
+| Navi | Declarative, asynchronous routing for React | [Github](https://github.com/frontarm/navi) | [Guides](https://frontarm.com/navi/en/) | [Docs](https://frontarm.com/navi/en/guides/getting-started/) |
 | React Router | React Router is a lightweight, fully-featured routing library for the React JavaScript library | [Github](https://github.com/remix-run/react-router) | [Guides](https://reactrouter.com/docs/en/v6/getting-started/installation) | [Docs](https://reactrouter.com/docs/en/v6) |
 
 ---
