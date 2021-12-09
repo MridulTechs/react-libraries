@@ -154,6 +154,13 @@
         "topic": "Router",
         "libraries": [
             {
+                "name": "Curi",
+                "description": "JavaScript router for single-page applications",
+                "repository": "https://github.com/pshrmn/curi",
+                "installation": "https://curi.js.org/guides/installation/",
+                "docs": "https://curi.js.org/guides/react-dom/"
+            },
+            {
                 "name": "Navi",
                 "description": "Declarative, asynchronous routing for React",
                 "repository": "https://github.com/frontarm/navi",
