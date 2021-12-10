@@ -258,6 +258,13 @@
                 "docs": "https://bulma.io/documentation/"
             },
             {
+                "name": "Chakra UI",
+                "description": "Simple, Modular & Accessible UI Components for your React Applications.",
+                "repository": "https://github.com/chakra-ui/chakra-ui/",
+                "installation": "https://chakra-ui.com/docs/getting-started#installation",
+                "docs": "https://chakra-ui.com/docs/getting-started"
+            },
+            {
                 "name": "Material-UI",
                 "description": "MUI provides a simple, customizable, and accessible library of React components",
                 "repository": "https://github.com/mui-org/material-ui",
