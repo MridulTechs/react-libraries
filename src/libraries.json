@@ -244,6 +244,13 @@
                 "docs": "https://ant.design/docs/react/introduce"
             },
             {
+                "name": "Blueprint",
+                "description": "A React-based UI toolkit for the web",
+                "repository": "https://github.com/palantir/blueprint",
+                "installation": "https://blueprintjs.com/docs/#blueprint.quick-start",
+                "docs": "https://blueprintjs.com/docs/"
+            },
+            {
                 "name": "Bootstrap",
                 "description": "Popular framework for building responsive, mobile-first sites",
                 "repository": "https://github.com/react-bootstrap/react-bootstrap",

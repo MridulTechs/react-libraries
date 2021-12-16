@@ -137,6 +137,7 @@
 | Name | Description | Github | Installation | Docs |
 |---|---|---|---|---|
 | Ant Design | An enterprise-class UI design language and React UI library | [Github](https://github.com/ant-design/ant-design/) | [Guides](https://ant.design/docs/react/introduce#Installation) | [Docs](https://ant.design/docs/react/introduce) |
+| Blueprint | A React-based UI toolkit for the web | [Github](https://github.com/palantir/blueprint) | [Guides](https://blueprintjs.com/docs/#blueprint.quick-start) | [Docs](https://blueprintjs.com/docs/) |
 | Bootstrap | Popular framework for building responsive, mobile-first sites | [Github](https://github.com/react-bootstrap/react-bootstrap) | [Guides](https://react-bootstrap.github.io/getting-started/introduction#installation) | [Docs](https://react-bootstrap.github.io/getting-started/introduction/) |
 | Bulma CSS | A free, open source CSS framework based on Flexbox and built with Sass. | [Github](https://github.com/jgthms/bulma) | [Guides](https://github.com/jgthms/bulma#quick-install) | [Docs](https://bulma.io/documentation/) |
 | Chakra UI | Simple, Modular & Accessible UI Components for your React Applications | [Github](https://github.com/chakra-ui/chakra-ui/) | [Guides](https://chakra-ui.com/docs/getting-started#installation) | [Docs](https://chakra-ui.com/docs/getting-started) |
