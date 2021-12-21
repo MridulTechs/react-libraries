@@ -272,6 +272,13 @@
                 "docs": "https://chakra-ui.com/docs/getting-started"
             },
             {
+                "name": "Fluent UI",
+                "description": "A set of React components for building Microsoft web experiences.",
+                "repository": "https://github.com/microsoft/fluentui/tree/master/packages/react",
+                "installation": "https://developer.microsoft.com/en-us/fluentui#/get-started/web",
+                "docs": "https://developer.microsoft.com/en-us/fluentui#/controls/web"
+            },
+            {
                 "name": "Material-UI",
                 "description": "MUI provides a simple, customizable, and accessible library of React components",
                 "repository": "https://github.com/mui-org/material-ui",
