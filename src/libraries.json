@@ -272,6 +272,13 @@
                 "docs": "https://chakra-ui.com/docs/getting-started"
             },
             {
+                "name": "Evergreen",
+                "description": "🌲 Evergreen React UI Framework by Segment",
+                "repository": "https://github.com/segmentio/evergreen",
+                "installation": "https://evergreen.segment.com/introduction/getting-started",
+                "docs": "https://evergreen.segment.com/"
+            },
+            {
                 "name": "Fluent UI",
                 "description": "A set of React components for building Microsoft web experiences.",
                 "repository": "https://github.com/microsoft/fluentui/tree/master/packages/react",
