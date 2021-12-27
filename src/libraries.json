@@ -286,6 +286,13 @@
                 "docs": "https://developer.microsoft.com/en-us/fluentui#/controls/web"
             },
             {
+                "name": "Grommet",
+                "description": "A react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package",
+                "repository": "https://github.com/grommet/grommet",
+                "installation": "https://github.com/grommet/grommet#install",
+                "docs": "https://v2.grommet.io/components"
+            },
+            {
                 "name": "Material-UI",
                 "description": "MUI provides a simple, customizable, and accessible library of React components",
                 "repository": "https://github.com/mui-org/material-ui",
